@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/cammclain/ReactSploit/server/middleware"
+	"github.com/cammclain/ReactSploit/server/routes"
 	"github.com/gin-gonic/gin"
-	"github.com/yourusername/ReactSploit/server/middleware"
-	"github.com/yourusername/ReactSploit/server/routes"
 )
 
 func main() {

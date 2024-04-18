@@ -3,8 +3,7 @@ package middleware
 import (
 	"net/http"
 
-	"ReactSploit/server/models"
-
+	"github.com/cammclain/ReactSploit/server/models"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/crypto/bcrypt"
 )
